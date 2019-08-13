@@ -1,0 +1,4 @@
+#Tue Aug 13 23:32:10 WIB 2019
+base.0=/home/jerypasaribu/AndroidStudioProjects/FirebaseChat/app/build/intermediates/transforms/dexMerger/debug/9
+path.0=classes.dex
+renamed.0=classes.dex
